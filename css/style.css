@@ -11,3 +11,20 @@
 .text-italic {
 }
 
+.navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, 0.5);
+    border-color: rgba(0, 0, 0, 0.788);
+    float: right;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.973);
+  }
+
+  .navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+  background-color: rgba(55, 97, 236, 0.9);
+  color:rgb(255, 255, 255)
+}
