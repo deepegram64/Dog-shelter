@@ -51,5 +51,8 @@
 }
 
 .grey {
-  background-color: rgba(172, 170, 170, 0.959);
+  background-color: rgb(235 226 226 / 96%);
+}
+.borderAll {
+  border: black solid 2px;
 }
